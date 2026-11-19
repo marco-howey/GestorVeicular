@@ -79,6 +79,7 @@ Depois de consolidar a função principal, a equipe poderá avaliar uma funciona
 Essas possibilidades não representam funcionalidades implementadas ou compromisso de entrega. Detalhes como raio de busca, atualização de preços e integração com oficinas ainda precisam ser avaliados.
 
 ## Links e artefatos
+- [Abrir o protótipo interativo no Figma](https://www.figma.com/proto/443RqSNlMnkGP0oSx3mTOz/Prototipo---Gestor-Veicular?node-id=0-1&t=HdThaR7JgsewFQpK-1)
 - [Central de artefatos do Gestor Veicular](https://gv.howey.com.br): portal de referência para documentação e materiais visuais.
 - [Histórico de protótipos](https://github.com/marco-howey/GestorVeicular/blob/main/PROTOTIPOS.md): versões navegáveis e links do Figma.
 - [Repositório no GitHub](https://github.com/marco-howey/GestorVeicular): documentação e futuras etapas de implementação.
