@@ -4,7 +4,6 @@ Registro das versões navegáveis do projeto.
 
 ## Versão atual — 19/11/2026
 
-- **Prévia interativa no site:** [Abrir protótipo](https://gv.howey.com.br/gestor-veicular-apresentacao/)
-- **Arquivo de design no Figma:** [Gestor Veicular](https://www.figma.com/design/swh1cfPxK3P4DTuoyTPkl1)
+- **Protótipo interativo publicado no Figma:** [Abrir apresentação](https://www.figma.com/proto/443RqSNlMnkGP0oSx3mTOz/Prototipo---Gestor-Veicular?node-id=0-1&t=HdThaR7JgsewFQpK-1)
+- **Prévia interativa anterior no site:** [Abrir prévia](https://gv.howey.com.br/gestor-veicular-apresentacao/)
 
-A prévia interativa está publicada no portal oficial. O arquivo do Figma contém o protótipo editável e pode exigir acesso autorizado pela equipe.
